@@ -4,10 +4,10 @@ If you think I could be a good fit for your project, feel free to contact me.
 
 ## Main Technologies
 
-- **Angular**
-- **TypeScript**
-- **JavaScript**
-- **HTML/CSS**
+- **Angular** - **TypeScript** - **JavaScript** - **HTML/CSS**
+
+
+
 
 <div align="start" gap="100px>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
