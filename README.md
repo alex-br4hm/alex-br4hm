@@ -10,15 +10,15 @@ If you think I could be a good fit for your project, feel free to contact me.
 
 
 <div align="start" gap="100px">
-    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Git-logo.svg" alt="Git" title="Git" /></code>
-    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML" title="HTML" /></code>
-    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg" alt="CSS" title="CSS" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" alt="Git" title="Git" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" alt="HTML" title="HTML" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" alt="CSS" title="CSS" /></code>
     <!-- Angular -->
-    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Angular_logo.svg" alt="Angular" title="Angular" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/angular.svg" alt="Angular" title="Angular" /></code>
     <!-- Angular Material -->
-    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Angular_Material_Logo.svg" alt="Angular Material" title="Angular Material" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/angularmaterial.svg" alt="Angular Material" title="Angular Material" /></code>
     <!-- Webstorm -->
-    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/WebStorm_Icon.svg" alt="Webstorm" title="Webstorm" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/webstorm.svg" alt="Webstorm" title="Webstorm" /></code>
     <!-- TypeScript -->
-    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/TypeScript_logo_2020.svg" alt="TypeScript" title="TypeScript" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" alt="TypeScript" title="TypeScript" /></code>
 </div>
