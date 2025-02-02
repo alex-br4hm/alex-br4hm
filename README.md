@@ -15,7 +15,7 @@ If you think I could be a good fit for your project, feel free to contact me.
     <!-- Angular -->
     <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular" /></code>
     <!-- Angular Material -->
-    <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular-material.png" alt="Angular Material" title="Angular Material" /></code>
+    <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png" alt="material design" title="Material Design" /></code>
     <!-- Webstorm -->
     <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" alt="Webstorm" title="Webstorm" /></code>
     <!-- TypeScript -->
