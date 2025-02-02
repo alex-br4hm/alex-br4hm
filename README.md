@@ -4,9 +4,7 @@ If you think I could be a good fit for your project, feel free to contact me.
 
 ## Main Technologies
 
-- **Angular** - **TypeScript** - **JavaScript** - **HTML/CSS**
-
-<div align="center">
+<div align="space-between">
     <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular" /></code>&nbsp;&nbsp;&nbsp;
     <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript" /></code>&nbsp;&nbsp;&nbsp;
     <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" /></code>&nbsp;&nbsp;&nbsp;
