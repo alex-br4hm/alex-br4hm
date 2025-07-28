@@ -1,11 +1,10 @@
-As a frontend developer, I help designers and companies bring their ideas to life. With passion, creativity, and technical expertise, I turn concepts into high-quality products.
+It's great to create things.
 
-If you think I could be a good fit for your project, feel free to contact me.
+# Technologies
 
-## Main Technologies
-
-<div>
-    <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular" /></code>&nbsp;&nbsp;&nbsp;
-    <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript" /></code>&nbsp;&nbsp;&nbsp;
-    <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" /></code>&nbsp;&nbsp;&nbsp;
-</div>
+-- TypeScript
+-- JavaScript
+-- Vue
+-- Angular
+-- PHP
+-- Symfony
